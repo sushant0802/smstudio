@@ -4,7 +4,7 @@
     It is a personal static template with Scrolling Background which is hosted with GitHub Pages.
     <br />
     <strong>Site URL / Demo » </strong>
-    <a href="https://sushant0802.github.io/home/"> sushant0802.github.io/home</a>
+    <a href="https://sushant0802.github.io/smstudio/"> sushant0802.github.io/smstudio</a>
     <br />
     <br />
     <a href="https://sushant0802.github.io/home/">About Me</a>
